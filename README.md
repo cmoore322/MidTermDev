@@ -1,7 +1,9 @@
 # dev-dog
 
 🦭Cumbie CIS 376 Web Dev Spring '25 Midterm Dev Exam
-
+### Author Information:
+Professor Cumbie
+Connor Moore 2/25/25 MidTerm Exam
 ### Resources
 
 - Internet, past projects, and all
